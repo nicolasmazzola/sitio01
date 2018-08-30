@@ -1,0 +1,24 @@
+<!--Contenido de la barra de navegación -->
+Pagina de inicio
+¿Para qué sirve html?
+¿Cómo funciona HTML?
+
+<!-- Página uno -->
+¿Qué es?
+HTML es un lenguaje de marcado que se utiliza para el desarrollo de páginas de Internet.
+Se trata de la sigla que corresponde a HyperText Markup Language, es decir, Lenguaje de Marcas de Hipertexto,
+que podría ser traducido como Lenguaje de Formato de Documentos para Hipertexto.
+
+<!-- Página dos -->
+¿Para qué sirve?
+HTML es el lenguaje que se emplea para el desarrollo de páginas de internet.
+Está compuesto por una seríe de etiquetas que el navegador interpreta y da forma en la pantalla.
+HTML dispone de etiquetas para imágenes, hipervínculos que nos permiten dirigirnos a otras páginas, saltos de línea, listas, tablas, etc.
+
+<!-- Página tres -->
+¿Cómo funciona?
+Básicamente, la cosa es simple: la pieza clave es el "browser", "navegador", "visualizador" o "cliente" o como quieras llamarle, HTML, es decir,
+el programa que ahora mismo estás utilizando para ver esto.
+Todas las codificaciones de efectos en el texto que forman el lenguaje HTML no son más que instrucciones para el visualizador.
+Partiendo de esto, se entiende el porqué no se ve lo mismo con todos los visualizadores.
+Depende de cómo estén diseñados y para qué versión de lenguaje estén diseñados.

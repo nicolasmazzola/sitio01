@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title> -----------------TITULO----------------- </title>
+    <meta charset="utf-8">
+    <meta name="description" content="-------------TEXTO-------------">
+    <link rel="stylesheet" type="text/css" href="-------Dirección relativa-------" >
+  </head>
+  <body>
+
+    <div id="header">
+      <h1> -----------------TITULO----------------- </h1>
+    </div>
+
+    <div id="nav">
+      <a href="-------Dirección relativa-------"> -------------TEXTO------------- </a><br>
+      <a href="-------Dirección relativa-------"> -------------TEXTO------------- </a><br>
+      <a href="-------Dirección relativa-------"> -------------TEXTO------------- </a><br>
+    </div>
+
+    <div id="section">
+      <h2> -------------TEXTO------------- </h2>
+      <p> -------------TEXTO------------- </p>
+    </div>
+
+    <div id="footer">
+      -------------TEXTO-------------
+    </div>
+
+  </body>
+</html>
